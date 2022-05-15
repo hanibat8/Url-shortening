@@ -1,3 +1,4 @@
+URL - https://6280c9ced59750146e64f8a3--curious-daffodil-ce8417.netlify.app/
 # Frontend Mentor - Shortly URL shortening API Challenge
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
